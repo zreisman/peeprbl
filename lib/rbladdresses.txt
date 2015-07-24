@@ -1,12 +1,12 @@
 all.s5h.net,85.119.82.99
-bl.spamcannibal.org,50.0.25.196
+bl.spamcannibal.org,87.106.29.21
 bl.spamcop.net,184.94.240.110
 blacklist.woody.ch,157.161.57.1
 cbl.abuseat.org,54.228.192.183
 combined.rbl.msrbl.net,64.22.86.210
 dnsbl.anticaptcha.net,89.184.65.184
 dnsbl.inps.de,5.9.60.98
-dnsbl.sorbs.net,113.52.8.154
+dnsbl.sorbs.net,208.43.110.204
 images.rbl.msrbl.net,64.22.86.210
 korea.services.net,64.57.183.85
 phishing.rbl.msrbl.net,64.22.86.210
