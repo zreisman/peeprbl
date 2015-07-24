@@ -93,7 +93,7 @@ module PeepRBL
     rbl_fqdns = RBLS.map {|rbl| [rbl, reverse_ip(mail_server_ip) + '.' + rbl] }
 
     Resolv::DNS.open do |dns|
-      dns.timeouts = 1
+      dns.timeouts = 2
       rbl_fqdns.each do |rbl|
         begin
           blacklist_report[rbl[0]] = dns.getaddress(rbl[1])
